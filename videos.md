@@ -14,7 +14,8 @@ Here are some of our favorites:
    <img src="https://img.youtube.com/vi/xaYYc4IMuG4/hqdefault.jpg" width="500">
 
 4. [Getting Started With Streamlit in Python](https://www.youtube.com/watch?v=sogNluduBQQ) by Andy McDonald
+
    <img src="https://img.youtube.com/vi/sogNluduBQQ/hqdefault.jpg" width="500">
 
-5. [Build a Website in only 12 minutes using Python & Streamlit](https://www.youtube.com/watch?v=VqgUkExPvLY) by Andy McDonald
+6. [Build a Website in only 12 minutes using Python & Streamlit](https://www.youtube.com/watch?v=VqgUkExPvLY) by Andy McDonald
    <img src="https://img.youtube.com/vi/VqgUkExPvLY/hqdefault.jpg" width="500">
