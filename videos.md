@@ -5,7 +5,7 @@ Showing an introductory video about Streamlit is a great way to kick off your ha
 Here are some of our favorites:
 
 1. [How to Build Your First Data Science Web App in Python](https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE) by Data Professor
-   <img src="[https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE](https://img.youtube.com/vi/ZZ4B0QUHuNc/0.jpg)" width="300">
+   <img src="[https://img.youtube.com/vi/ZZ4B0QUHuNc/0.jpg](https://img.youtube.com/vi/ZZ4B0QUHuNc/0.jpg)" width="300">
 
 3. [Building a Dashboard web app in Python - Full Streamlit Tutorial](https://www.youtube.com/watch?v=o6wQ8zAkLxc) by Data Professor
 
