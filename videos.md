@@ -14,4 +14,5 @@ Here are some of our favorites:
    <img src="https://img.youtube.com/vi/xaYYc4IMuG4/hqdefault.jpg" width="500">
 
 6. [Getting Started With Streamlit in Python](https://www.youtube.com/watch?v=sogNluduBQQ) by Andy McDonald
+
    <img src="https://img.youtube.com/vi/sogNluduBQQ/hqdefault.jpg" width="500">
