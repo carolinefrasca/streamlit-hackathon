@@ -11,7 +11,7 @@ Here are some of our favorites:
    <img src="https://img.youtube.com/vi/o6wQ8zAkLxc/maxresdefault.jpg" width="500">
 
 4. [Streamlit 101: an intro to building web apps with just Python](https://www.youtube.com/watch?v=xaYYc4IMuG4) by Certified Fresh Events + Caroline Frasca
-   <img src="https://img.youtube.com/vi/xaYYc4IMuG4/maxresdefault.jpg" width="500">
+   <img src="https://img.youtube.com/vi/xaYYc4IMuG4/hqdefault.jpg" width="500">
 
 6. [Getting Started With Streamlit in Python](https://www.youtube.com/watch?v=sogNluduBQQ) by Andy McDonald
    <img src="https://img.youtube.com/vi/sogNluduBQQ/maxresdefault.jpg" width="500">
