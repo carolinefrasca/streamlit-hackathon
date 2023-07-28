@@ -21,5 +21,5 @@ Check out example challenge statements [here](https://github.com/carolinedlu/str
 Learn more about getting support with your Streamlit app [here](https://github.com/carolinedlu/streamlit-hackathon/blob/main/app-support.md).
 
 ### Swag request form
-...
-Learn more about requesting Streamlit swag [here](https://github.com/carolinedlu/streamlit-hackathon/blob/main/swag.md).
+
+We're happy to send swag to the winners of your Streamlit-themed hackathon or the Streamlit category of your hackathon. Once the winners have been selected, instruct them to complete [this form](https://forms.streamlit.io/community-hackathons) and we'll send each of them a Streamlit T-shirt!
