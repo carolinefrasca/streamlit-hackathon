@@ -27,7 +27,3 @@ Not sure where to begin? Check out the following resources on `st.experimental_c
 ### [Introducing st.connection for connecting to SQL database in 4 lines](https://www.youtube.com/watch?v=xQwDfW7UHMo)
 
 <img src="https://img.youtube.com/vi/xQwDfW7UHMo/hqdefault.jpg" width="500">
-
-### [How to Deploy Your App to Streamlit Community Cloud](https://www.youtube.com/watch?v=HKoOBiAaHGg)
-
-<img src="https://img.youtube.com/vi/HKoOBiAaHGg/hqdefault.jpg" width="500">
