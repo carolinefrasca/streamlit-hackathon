@@ -2,27 +2,21 @@
 
 Your mission is to create a Streamlit app that connects to a data source or API using `st.experimental_connection` and displays data in an interactive table using `st.data_editor.`
 
+Streamlit's [`st.experimental_connection`](https://docs.streamlit.io/library/api-reference/connections/st.experimental_connection) feature can be used to connect to a data source in just four lines of code. There are pre-built Connections for [SQL](https://docs.streamlit.io/library/api-reference/connections/st.connections.sqlconnection), [Snowpark](https://docs.streamlit.io/library/api-reference/connections/st.connections.snowparkconnection), [Google Sheets](https://github.com/streamlit/gsheets-connection), [AWS S3](https://github.com/streamlit/files-connection), and more.
 
+There are a variety of sources that provide free data sources, including:
+- [The Snowflake Data Marketplace](https://app.snowflake.com/marketplace?pricing=free) – you can start a free trial of Snowflake [here](https://signup.snowflake.com/?trial=streamlit-hackathon)
+- [Kaggle](https://www.kaggle.com/)
+- [World Bank Open Data](https://data.worldbank.org/)
+- [World Health Organization Open Data Repository](https://www.who.int/data/gho/)
+- [Data.gov](https://data.gov/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- 
 
-You'll want to use Streamlit's [chat elements](https://docs.streamlit.io/library/api-reference/chat), including [`st.chat_message`](https://docs.streamlit.io/library/api-reference/chat/st.chat_message) and [`st.chat_input`](https://docs.streamlit.io/library/api-reference/chat/st.chat_input) to create your chatbot's UI.
+Finally, `st.data_editor` will enable you to display the data you're pulling into your app in a dynamic, editable table.
 
-Once you've set up your chatbot UI, it's up to you to pick a large language model or API to connect to the chatbot.
-
-You may want to consider:
-- [GPT 3.5](https://platform.openai.com/docs/models/gpt-3-5)
-- [Llama 2](https://ai.meta.com/llama/)
-- [OpenAssistant LLaMa 30B SFT 6](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)
-- [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2)
-- [Claude 2](https://www.anthropic.com/index/claude-2)
-
-Not sure where to begin? Check out the following tutorials on building chatbots with Streamlit:
-- [How to build a Llama 2 chatbot](https://blog.streamlit.io/how-to-build-a-llama-2-chatbot/)
-- [snowChat: Leveraging OpenAI's GPT for SQL queries](https://blog.streamlit.io/snowchat-leveraging-openais-gpt-for-sql-queries/)
-- [How to build an LLM-powered ChatBot with Streamlit](https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/)
-- [Build conversational apps](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
-
-There are also a number of video introductions to Streamlit's chat elements as well as tutorials on building chatbots with Streamlit.
-
+Not sure where to begin? Check out the following resources on `st.experimental_connection` and `st.data_editor.`
+- 
 ### [Introducing Streamlit Chat Elements](https://www.youtube.com/watch?v=4sPnOqeUDmk)
 
 <img src="https://img.youtube.com/vi/4sPnOqeUDmk/hqdefault.jpg" width="500">
