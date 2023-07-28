@@ -1,4 +1,4 @@
-# Running your own Streamlit hackathon
+# How to run your own Streamlit hackathon 
 
 This repository provides all the resources needed to organize your own Streamlit-focused hackathon or to include Streamlit in a hackathon you're already planning.
 
