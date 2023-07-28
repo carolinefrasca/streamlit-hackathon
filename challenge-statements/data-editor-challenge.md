@@ -19,6 +19,8 @@ There are a variety of sources that provide free data sources, including:
 Finally, `st.data_editor` will enable you to display the data you're pulling into your app in a dynamic, editable table.
 
 Not sure where to begin? Check out the following resources on `st.experimental_connection` and `st.data_editor.`
+- [Streamlit's doc on st.data_editor](https://docs.streamlit.io/library/api-reference/data/st.data_editor)
+- 
 - 
 ### [Introducing Streamlit Chat Elements](https://www.youtube.com/watch?v=4sPnOqeUDmk)
 
