@@ -21,8 +21,8 @@ Not sure where to begin? Check out the following tutorials on building chatbots 
 
 There are also a number of video introductions to Streamlit's chat elements as well as tutorials on building chatbots with Streamlit.
 
-[Introducing Streamlit Chat Elements](https://www.youtube.com/watch?v=4sPnOqeUDmk)
+![Introducing Streamlit Chat Elements](https://www.youtube.com/watch?v=4sPnOqeUDmk)
 <img src="https://img.youtube.com/vi/4sPnOqeUDmk/hqdefault.jpg" width="500">
 
-[New Streamlit Chat Feature – Build a ChatGPT Clone in Under 50 Lines of Code 🤯](https://www.youtube.com/watch?v=sBhK-2K9bUc)
+![New Streamlit Chat Feature – Build a ChatGPT Clone in Under 50 Lines of Code 🤯](https://www.youtube.com/watch?v=sBhK-2K9bUc)
 <img src="https://img.youtube.com/vi/sBhK-2K9bUc/hqdefault.jpg" width="500">
