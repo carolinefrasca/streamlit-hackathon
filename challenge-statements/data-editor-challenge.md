@@ -20,16 +20,14 @@ Finally, `st.data_editor` will enable you to display the data you're pulling int
 
 Not sure where to begin? Check out the following resources on `st.experimental_connection` and `st.data_editor.`
 - [Streamlit's doc on st.data_editor](https://docs.streamlit.io/library/api-reference/data/st.data_editor)
-- 
-- 
-### [Introducing Streamlit Chat Elements](https://www.youtube.com/watch?v=4sPnOqeUDmk)
+- [Streamlit's doc on st.experimental_connection](https://docs.streamlit.io/library/api-reference/connections/st.experimental_connection)
+- [Blog: Editable dataframes are here!](https://blog.streamlit.io/editable-dataframes-are-here/)
+- [Introducing st.experimental_connection!](https://blog.streamlit.io/introducing-st-experimental_connection/)
 
-<img src="https://img.youtube.com/vi/4sPnOqeUDmk/hqdefault.jpg" width="500">
+### [Introducing st.connection for connecting to SQL database in 4 lines](https://www.youtube.com/watch?v=xQwDfW7UHMo)
 
-### [New Streamlit Chat Feature – Build a ChatGPT Clone in Under 50 Lines of Code 🤯](https://www.youtube.com/watch?v=sBhK-2K9bUc)
+<img src="https://img.youtube.com/vi/xQwDfW7UHMo/hqdefault.jpg" width="500">
 
-<img src="https://img.youtube.com/vi/sBhK-2K9bUc/hqdefault.jpg" width="500">
+### [How to Deploy Your App to Streamlit Community Cloud](https://www.youtube.com/watch?v=HKoOBiAaHGg)
 
-### [Building An LLM-Powered Chatbot With Streamlit On Snowflake Data](https://www.youtube.com/watch?v=3WH1DHBf2WQ)
-
-<img src="https://img.youtube.com/vi/3WH1DHBf2WQ/hqdefault.jpg" width="500">
+<img src="https://img.youtube.com/vi/HKoOBiAaHGg/hqdefault.jpg" width="500">
