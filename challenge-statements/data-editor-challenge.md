@@ -11,7 +11,10 @@ There are a variety of sources that provide free data sources, including:
 - [World Health Organization Open Data Repository](https://www.who.int/data/gho/)
 - [Data.gov](https://data.gov/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
-- 
+- [Google Cloud public datasets](https://cloud.google.com/datasets)
+- [Earthdata](https://www.earthdata.nasa.gov/)
+- [CERN Open Data Portal](http://opendata.cern.ch/)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 Finally, `st.data_editor` will enable you to display the data you're pulling into your app in a dynamic, editable table.
 
