@@ -1,8 +1,8 @@
 # Running your own Streamlit hackathon
 
-So you want to host a Streamlit hackathon ... you're in the right place! This repository provides all the resources needed to organize your own Streamlit-focused hackathon or to include Streamlit in a hackathon you're already planning.
+This repository provides all the resources needed to organize your own Streamlit-focused hackathon or to include Streamlit in a hackathon you're already planning.
 
-Let's dive into an overview of the resources.
+Let's dive into the resources.
 
 ## Introductory slide decks
 You'll find several options for slide decks that provide an introduction to Streamlit. Feel free to present these to your hackathon attendees at the beginning of your hackathon to familiarize them with Streamlit. If you'd prefer to have the Streamlit team do the talking, there are also video options.
@@ -30,8 +30,9 @@ Here are some of our favorites:
    <img src="https://img.youtube.com/vi/VqgUkExPvLY/hqdefault.jpg" width="500">
 
 ## Challenge statements
-...
-Check out example challenge statements [here](https://github.com/carolinedlu/streamlit-hackathon/tree/main/challenge-statements).
+A hackathon challenge statement is a concise description of the challenge that participants are expected to address and solve during the hackathon event. It outlines the specific problem or goal that participants need to tackle using their creativity, technical skills, and innovative thinking.
+
+Dive into a variety of Streamlit-related challenge statements [here](https://github.com/carolinedlu/streamlit-hackathon/tree/main/challenge-statements).
 
 ## App support
 If your hackathon participants have questions about using Streamlit or need help resolving errors with their apps, feel free to direct them to the following resources.
