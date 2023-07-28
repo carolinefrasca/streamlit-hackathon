@@ -28,3 +28,7 @@ There are also a number of video introductions to Streamlit's chat elements as w
 [New Streamlit Chat Feature – Build a ChatGPT Clone in Under 50 Lines of Code 🤯](https://www.youtube.com/watch?v=sBhK-2K9bUc)
 
 <img src="https://img.youtube.com/vi/sBhK-2K9bUc/hqdefault.jpg" width="500">
+
+[Building An LLM-Powered Chatbot With Streamlit On Snowflake Data](https://www.youtube.com/watch?v=3WH1DHBf2WQ)
+
+<img src="https://img.youtube.com/vi/3WH1DHBf2WQ/hqdefault.jpg" width="500">
