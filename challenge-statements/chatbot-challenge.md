@@ -7,11 +7,18 @@ You'll want to use Streamlit's [chat elements](https://docs.streamlit.io/library
 Once you've set up your chatbot UI, it's up to you to pick a large language model or API to connect to the chatbot.
 
 You may want to consider:
+- [GPT 3.5](https://platform.openai.com/docs/models/gpt-3-5)
+- [Llama 2](https://ai.meta.com/llama/)
+- [OpenAssistant LLaMa 30B SFT 6](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)
+- [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2)
+- [Claude 2](https://www.anthropic.com/index/claude-2)
 
-- OpenAI's GPT 3.5
-
-Not sure where to begin? Check out the following tutorials:
+Not sure where to begin? Check out the following tutorials on building chatbots with Streamlit:
 - [How to build a Llama 2 chatbot](https://blog.streamlit.io/how-to-build-a-llama-2-chatbot/)
 - [snowChat: Leveraging OpenAI's GPT for SQL queries](https://blog.streamlit.io/snowchat-leveraging-openais-gpt-for-sql-queries/)
 - [How to build an LLM-powered ChatBot with Streamlit](https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/)
 - [Build conversational apps](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
+
+
+[Introducing Streamlit Chat Elements](https://www.youtube.com/watch?v=4sPnOqeUDmk)
+<img src="https://img.youtube.com/vi/4sPnOqeUDmk/hqdefault.jpg" width="500">
