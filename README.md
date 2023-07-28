@@ -5,8 +5,7 @@ This repository provides all the resources needed to organize your own Streamlit
 Let's dive into the resources.
 
 ## Introductory slide decks
-You'll find several options for slide decks that provide an introduction to Streamlit. Feel free to present these to your hackathon attendees at the beginning of your hackathon to familiarize them with Streamlit. If you'd prefer to have the Streamlit team do the talking, there are also video options.
-Check out the slide decks [here](https://github.com/carolinedlu/streamlit-hackathon/tree/main/slides).
+Check out the ![official Introduction to Streamlit slide deck](Introduction to Streamlit.pptx). Feel free to present these to your hackathon attendees at the beginning of your hackathon to familiarize them with Streamlit. If you'd prefer to have the Streamlit team do the talking, there are also video options.
 
 ## Introductory videos
 Showing an introductory video about Streamlit is a great way to kick off your hackathon. Luckily, there are tons of great videos that provide an intro to Streamlit.
