@@ -12,19 +12,14 @@ A hackathon challenge statement is a concise description of the challenge that p
 
 Dive into a variety of Streamlit-related challenge statements [here](https://github.com/carolinedlu/streamlit-hackathon/tree/main/challenge-statements).
 
-## 4. Support for app builders
+## 3. Support for app builders
 If your hackathon participants have questions about using Streamlit or need help resolving errors with their apps, feel free to direct them to the following resources.
 
-## 5. Prizes for winners
-We're happy to send swag to the winners of your Streamlit-themed hackathon or the Streamlit category of your hackathon. Once the winners have been selected, instruct them to complete [this form](https://forms.streamlit.io/community-hackathons) and we'll send each of them a Streamlit T-shirt!
-
-
-
-### Forum
 Streamlit's forum is the best place to ask technical questions. The forum is monitored by Streamlit employees, Community Moderators, and our awesome community of developers. Check out our forum [here](https://discuss.streamlit.io/).
 ![Streamlit's forum](/images/Forum.png)
 
 ### Discord server
 Streamlit's Discord server is a great place to chat with the Streamlit community. Join the server [here](https://discord.gg/bTz5EDYh9Z) and feel free to share your technical questions in #community-hackathons.
 
-
+## 4. Prizes for winners
+We're happy to send swag to the winners of your Streamlit-themed hackathon or the Streamlit category of your hackathon. Once the winners have been selected, instruct them to complete [this form](https://forms.streamlit.io/community-hackathons) and we'll send each of them a Streamlit T-shirt!
